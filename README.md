@@ -38,7 +38,7 @@ I am a Junior Software Developer from Estonia <img src="https://upload.wikimedia
 
 ---
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tuvi9&theme=shadow-orange&date_format=M%20j%5B%2C%20Y%5D&card_width=600)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tuvi9&theme=shadow-orange)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuvi9&layout=compact&theme=dark&bg_color=0d1117&border_color=FF6600&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 
