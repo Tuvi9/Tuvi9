@@ -20,9 +20,9 @@
 ---
 ### :man_technologist: About Me :
 I am a Junior Software Developer from Estonia <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Estonia.svg" alt="Estonian Flag" style="width:16px;height:auto;vertical-align:middle;"/>
-- 💻 In my free time I'm a computer enthusiast and like tweaking / building them.
-- 🏃 Besides my passion for tech outside of that I am a avid runner and gym-goer.
-- 🎬 And a huge fan of anime my favourite so far being Demon Slayer!
+- 💻 When I'm not coding I'm drooling over PCPartPicker, binging a 200ep+ anime or scrolling my steam library but never actually playing anything.
+- 🏃 Besides my obsession with tech I'm also into powerlifting and the very occasional run.
+- 🎬 I've always been and will always be a huge fan of anime. An all time favourite of mine being "Black Clover"!!!
 
 
 ---
